@@ -22,5 +22,6 @@
 }
 
 .top-hat {
+    position: relative;
     z-index: 1;
 }

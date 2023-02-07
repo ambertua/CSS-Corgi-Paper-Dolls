@@ -17,7 +17,8 @@
 }
 
 .luna {
-    position: absolute;
+    position: sticky;
+    left: 0;
 }
 
 .top-hat {
